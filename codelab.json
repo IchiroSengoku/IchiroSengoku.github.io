@@ -1,0 +1,22 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2021-03-05T07:50:46Z",
+  "id": "claat-sample",
+  "duration": 43,
+  "title": "新学習指導要領の理解",
+  "authors": "i.seongoku",
+  "summary": "プログル技術の研修資料です",
+  "source": "18m9kWT0JpfpYswXnKlFnptQzwTuPHLQySmnQb73ii3k/edit#",
+  "theme": "go",
+  "status": [
+    "draft"
+  ],
+  "category": [
+    "Go"
+  ],
+  "tags": [],
+  "url": "claat-sample"
+}
